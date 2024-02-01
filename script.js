@@ -1,18 +1,18 @@
 // 1. Convert to an arrow function.
-function greet() {
-    return "Hello, world!";
+const greet = () => {
+  return "Hello, world!";
 }
   
 
 // 2. Convert to an arrow function.
-function double(number) {
-    return number * 2;
+const double = (number) => {
+  return number * 2;
 }
   
 
 // 3. Convert to an arrow function.
-function multiply(a, b) {
-    return a * b;
+const multiply = (a, b) => {
+  return a * b;
 }
   
   
